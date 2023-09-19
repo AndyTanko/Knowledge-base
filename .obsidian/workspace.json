@@ -1,0 +1,316 @@
+{
+  "main": {
+    "id": "03956de37bd9e2cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4d9c43aa74b8d05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a04fee322124b00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NSU/LaSalle teorema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a6203d6cbf4ae9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NSU/Invarijantni skupovi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b7d6a3a1e61ff6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAU2/Funkcija povratnog prenosa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fc8da7dcf4ac732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAU2/Funkcija osetljivosti.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c31ec8d66dc7f2ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAU2/Routh-Hurwitz kriterijum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c49fc1928d5f5af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAU2/Bodeovi parametri.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ede280d81cf84326",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0c76a8cb46df65d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAU2/Klead.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66da9ec303f2abb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Furijeova transformacija.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90bf25172b9efd43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOS/Teorema o odabiranju.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53b690506595f60b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOS/z-transformacija.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99350569d85309e5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d88ffee2f0eb8640",
+    "type": "split",
+    "children": [
+      {
+        "id": "e597a7b38e0d8ec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be6771d687a6266a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dba37509b1851e74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfd0b63363c372fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39de089dde03670f",
+    "type": "split",
+    "children": [
+      {
+        "id": "032bddfd4ae3d1e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61db6953f7ef50d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NSU/LaSalle teorema.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59913e5631d52406",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NSU/LaSalle teorema.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "110122b1fb33d990",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "43811f3b72ffd499",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NSU/LaSalle teorema.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "99350569d85309e5",
+  "lastOpenFiles": [
+    "ETF",
+    "DOS/Teorema o odabiranju.md",
+    "DOS/z-transformacija.md",
+    "DOS/Diskretna Furijeova Transformacija - DFT.md",
+    "DOS/Poduzorkovanje.md",
+    "DOS/Rotacioni faktor.md",
+    "SAU2/Funkcija povratnog prenosa.md",
+    "SAU2/Funkcija osetljivosti.md",
+    "Furijeova transformacija.md",
+    "SAU2/Klag.md",
+    "NSU/2010Sept, II deo ispita.md",
+    "DOS",
+    "NSU/Egzistencija samooscilacija.md",
+    "NSU/Invarijantni skupovi.md",
+    "NSU/Ljapunov stabilnost.md",
+    "NSU/Bendixonov kriterijum.md",
+    "SAU2/Routh-Hurwitz kriterijum.md",
+    "NSU/Relejni eksperiment.md",
+    "SAU2/Bodeovi parametri.md",
+    "SAU2/Klead.md",
+    "Bodeovi parametri(Bodeove karakteristike).md",
+    "Images/gs1.jpg",
+    "NSU/Opisna funkcija nelinearnosti.md",
+    "NSU/Harmonijska linearizacija.md",
+    "SAU2",
+    "NSU/LaSalle teorema.md",
+    "Resursi-jutjub.md",
+    "NSU/Kriterijum Popova.md",
+    "NSU/Kruzni kriterijum (apsolutna stabilnost).md",
+    "Images/Pasted image 20230808004653.png",
+    "Images/Pasted image 20230808004031.png",
+    "Images/FrequencyResponseTutorial_BodePlots_Margins_MarginDiagrams.png",
+    "Images",
+    "Images/IMG_E0110.JPG",
+    "Images/IMG_E0108.JPG",
+    "NSU",
+    "Polje(matematika)"
+  ]
+}
