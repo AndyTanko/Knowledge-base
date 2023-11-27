@@ -1,5 +1,5 @@
-#dos
-Diskretna Furijeova transformacija je diskretni ekvivalent [Furijeove transformacije](Furijeova%20transformacija) 
+#dos 
+Diskretna Furijeova transformacija je diskretni ekvivalent [Furijeove transformacije](Furijeova%20transformacija.md) 
 
 <mark style="background: #BBFABBA6;">Formula za N vremenskih odbiraka sa N frekvencijskih izlaza glasi</mark>:
 $X(k)=T\sum_{n=0}^{N-1}x(n)e^{-j\frac{2\pi}{N}kn}$, gde se obicno poslednji cinilac naziva [rotacionim faktorom](Rotacioni%20faktor) 

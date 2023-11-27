@@ -4,7 +4,7 @@
 
 Neka je sistem predstavljen sa $\dot x = f(x)$, gde je x vektor varijabli, a f(0)=0, onda:
 Ako postoji kontinualno diferencijabilna funkcija V(x), za koju vazi:
-$\dot V(x)\leq 0,\forall x \in \Omega$ 
+-----$\dot V(x)\leq 0,\forall x \in \Omega$ ------
 i ako je V(x) neogranicena, odnosno tezi beskonacnosti sa udaljenjem od (0,0,...,0);
 Onda za svako pocetno x iz $\Omega$ trajektorija x(t) ce teziti maksimalnom invarijantnom skupu M.
 
