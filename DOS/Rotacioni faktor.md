@@ -1,5 +1,5 @@
 #dos
-Rotacioni faktor se koristi za [Diskretnu furijeovu transformaciju](Diskretna%20Furijeova%20Transformacija%20-%20DFT.md) u N tacaka.
+Rotacioni faktor se koristi za [Diskretnu furijeovu transformaciju](Diskretna%20Furijeova%20Transformacija.md) u N tacaka.
 
 Njegova formula je $W_N = e^{-\frac{j2\pi}{N}}$, i koristi se kao faktor za mnozenje u formuli za DFT
 

@@ -20,133 +20,19 @@
             }
           },
           {
-            "id": "8a6203d6cbf4ae9b",
+            "id": "11f6a1e11f4def18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSU/Invarijantni skupovi.md",
+                "file": "NS2/Untitled.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "7b7d6a3a1e61ff6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAU2/Funkcija povratnog prenosa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fc8da7dcf4ac732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAU2/Funkcija osetljivosti.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c31ec8d66dc7f2ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAU2/Routh-Hurwitz kriterijum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c49fc1928d5f5af1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAU2/Bodeovi parametri.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ede280d81cf84326",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "e0c76a8cb46df65d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAU2/Klead.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66da9ec303f2abb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Furijeova transformacija.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90bf25172b9efd43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOS/Teorema o odabiranju.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53b690506595f60b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOS/z-transformacija.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99350569d85309e5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -273,17 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99350569d85309e5",
+  "active": "be6771d687a6266a",
   "lastOpenFiles": [
+    "NSU/LaSalle teorema.md",
+    "NS2/Untitled.md",
+    "URV",
+    "NS2",
+    "DOS/Diskretna Furijeova Transformacija.md",
+    "SIS/Furijeova transformacija.md",
+    "Diskretna Furijeova Transformacija.md",
+    "SIS/z-transformacija.md",
+    "SIS",
+    "Laplasova transformacija.md",
+    "Laplasova.md",
+    "DOS/Poduzorkovanje.md",
     "ETF",
     "DOS/Teorema o odabiranju.md",
-    "DOS/z-transformacija.md",
-    "DOS/Diskretna Furijeova Transformacija - DFT.md",
-    "DOS/Poduzorkovanje.md",
     "DOS/Rotacioni faktor.md",
     "SAU2/Funkcija povratnog prenosa.md",
     "SAU2/Funkcija osetljivosti.md",
-    "Furijeova transformacija.md",
     "SAU2/Klag.md",
     "NSU/2010Sept, II deo ispita.md",
     "DOS",
@@ -300,10 +194,6 @@
     "NSU/Opisna funkcija nelinearnosti.md",
     "NSU/Harmonijska linearizacija.md",
     "SAU2",
-    "NSU/LaSalle teorema.md",
-    "Resursi-jutjub.md",
-    "NSU/Kriterijum Popova.md",
-    "NSU/Kruzni kriterijum (apsolutna stabilnost).md",
     "Images/Pasted image 20230808004653.png",
     "Images/Pasted image 20230808004031.png",
     "Images/FrequencyResponseTutorial_BodePlots_Margins_MarginDiagrams.png",
