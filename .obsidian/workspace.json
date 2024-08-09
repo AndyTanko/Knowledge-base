@@ -8,31 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a04fee322124b00",
+            "id": "84264efc89759533",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSU/LaSalle teorema.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11f6a1e11f4def18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NS2/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "39de089dde03670f",
@@ -98,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSU/LaSalle teorema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSU/LaSalle teorema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NSU/LaSalle teorema.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,51 +136,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-matrix:Obsidian Matrix": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be6771d687a6266a",
+  "active": "84264efc89759533",
   "lastOpenFiles": [
-    "NSU/LaSalle teorema.md",
-    "NS2/Untitled.md",
-    "URV",
-    "NS2",
-    "DOS/Diskretna Furijeova Transformacija.md",
-    "SIS/Furijeova transformacija.md",
-    "Diskretna Furijeova Transformacija.md",
+    "VI/Deo02.md",
     "SIS/z-transformacija.md",
+    "SIS/Furijeova transformacija.md",
     "SIS",
+    "NS2/Untitled.md",
     "Laplasova transformacija.md",
-    "Laplasova.md",
-    "DOS/Poduzorkovanje.md",
+    "DOS/Diskretna Furijeova Transformacija.md",
+    "VI/Deo03.md",
+    "VI/Deo04.md",
+    "VI/Deo05.md",
+    "VI/Deo01.md",
+    "Aksiom.md",
+    "Excalidraw/MJS kocenje.md",
+    "VI/Deo07.md",
+    "VI/Deo06.md",
+    "VI/Kanonske raspodele.md",
+    "VI/Inteligentni agenti.md",
+    "Pasted Image 20240724003403_808.png",
+    "Prepoznavanje Oblika/Linearne transformacije.md",
+    "Prepoznavanje Oblika/Maks Verodostojnost.md",
+    "VI/Informisana pretraga.md",
+    "VI/KLK-resen.md",
+    "VI/VI-Predavanje2.md",
+    "VI/VI-P03 Neinformisana Pretraga.md",
+    "VI/Simulirano Kaljenje.md",
+    "VI/Napredne pretrage.md",
+    "VI/Minimax i maximin.png",
+    "VI/Minimax i maximin.md",
+    "Untitled",
+    "VI/Igre.md",
+    "VI/Minimax i maximin.svg",
+    "Pasted Image 20240603214257_720.png",
+    "Prepoznavanje Oblika",
+    "Pasted Image 20240424221102_301.png",
+    "Pasted Image 20240424214944_336.png",
+    "Pasted Image 20240424213133_324.png",
+    "AMR",
+    "Excalidraw",
+    "Untitled.canvas",
+    "VI",
+    "DMS",
+    "NS2",
     "ETF",
-    "DOS/Teorema o odabiranju.md",
-    "DOS/Rotacioni faktor.md",
-    "SAU2/Funkcija povratnog prenosa.md",
-    "SAU2/Funkcija osetljivosti.md",
-    "SAU2/Klag.md",
-    "NSU/2010Sept, II deo ispita.md",
     "DOS",
-    "NSU/Egzistencija samooscilacija.md",
-    "NSU/Invarijantni skupovi.md",
-    "NSU/Ljapunov stabilnost.md",
-    "NSU/Bendixonov kriterijum.md",
-    "SAU2/Routh-Hurwitz kriterijum.md",
-    "NSU/Relejni eksperiment.md",
-    "SAU2/Bodeovi parametri.md",
-    "SAU2/Klead.md",
-    "Bodeovi parametri(Bodeove karakteristike).md",
     "Images/gs1.jpg",
-    "NSU/Opisna funkcija nelinearnosti.md",
-    "NSU/Harmonijska linearizacija.md",
-    "SAU2",
     "Images/Pasted image 20230808004653.png",
-    "Images/Pasted image 20230808004031.png",
-    "Images/FrequencyResponseTutorial_BodePlots_Margins_MarginDiagrams.png",
-    "Images",
-    "Images/IMG_E0110.JPG",
-    "Images/IMG_E0108.JPG",
-    "NSU",
-    "Polje(matematika)"
+    "Images/Pasted image 20230808004031.png"
   ]
 }
